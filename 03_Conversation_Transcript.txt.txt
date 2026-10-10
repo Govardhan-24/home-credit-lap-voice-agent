@@ -1,0 +1,30 @@
+user: Hi. 
+agent: Hi, I’m Cimo calling from Home Credit. Am I speaking with the customer?
+user: Yes. 
+agent: Home Credit has a Loan Against Property offer of up to ₹75 lakh for existing customers. Are you available for a quick check?
+user: Yes. Yes. 
+agent: Do you already have a loan against the property, or are you looking to reduce or refinance an existing EMI?
+agent: Are 
+user: I 
+agent: you 
+user: mean, I mean, residual house, I do not have any existing loan against the property, and I don't want to reduce in existing EMI, I'm available to talk. 
+agent: Just to confirm, is it a residential house?
+user: Yes. It is. 
+agent: Is the property solely owned by you or jointly owned?
+user: It's jointly owned. 
+agent: Are the original property documents available for verification?
+user: Yes. It is. 
+agent: What loan amount are you looking for, up to ₹75 lakh?
+user: Seventy lakh. 
+agent: What do you do for work, and is your income received in a 
+user: Yes. I 
+agent: bank account?
+user: do your work in a m an m and c company. In the field of IT sector. I received my salary in the bank account. 
+agent: What’s the estimated current market value of the property?
+user: It's about one crore. 
+agent: What repayment tenure would you prefer, between 3 and 15 years?
+user: It's I guess it's a five five years. 
+agent: Thank you. Based on the preliminary information you've shared, you meet the initial criteria for the offer. A senior loan expert will contact you shortly to discuss the next steps and exact interest rates. This is not a final loan approval.
+user: Okay. 
+agent: Thank you for your time. Have a good day.
+user: Thank you. 
